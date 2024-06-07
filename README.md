@@ -1,3 +1,15 @@
+#Code book and description of how the code works
+
+# Code book:
+
+tidy_data.txt contains 180 observations of 89 variables.
+
+The data contains the means and standard deviation of different measures of each individual performing different activities.
+More information can be found in the features_info.txt, available at the rep
+
+
+
+
 # Description of how the run_analysis.R script works:
 
 First, we import all the datasets. Be aware of changing the working directory according to where the files are located.
